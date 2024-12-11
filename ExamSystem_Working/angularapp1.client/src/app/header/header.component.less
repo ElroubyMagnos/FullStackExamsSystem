@@ -1,0 +1,46 @@
+.btns
+{
+    @media (max-width: 767px)
+    {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+.logocontainer
+{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+    background-color: black;
+    padding: 7px;
+    animation: AppearAfter 2s linear;
+
+    img
+    {
+        width: 25%;
+        height: 10%;
+    }
+
+    div
+    {
+        a
+        {
+            background-color: #1992CE;
+            border: none;
+            padding: 10px;
+            border-radius: 5px;
+            margin: 5px;
+            text-decoration: none;
+            color: white;
+            transition: all linear 0.5s;
+
+            &:hover
+            {
+                background-color: #FBC017;
+            }
+        }
+    }
+}

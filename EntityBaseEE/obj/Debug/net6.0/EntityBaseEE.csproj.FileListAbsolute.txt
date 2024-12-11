@@ -1,0 +1,42 @@
+C:\Users\Magnos\Desktop\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.csproj.AssemblyReference.cache
+C:\Users\Magnos\Desktop\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magnos\Desktop\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.AssemblyInfoInputs.cache
+C:\Users\Magnos\Desktop\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.AssemblyInfo.cs
+C:\Users\Magnos\Desktop\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.csproj.CoreCompileInputs.cache
+C:\Users\Magnos\Desktop\EntityBaseEE\bin\Debug\net6.0\EntityBaseEE.deps.json
+C:\Users\Magnos\Desktop\EntityBaseEE\bin\Debug\net6.0\EntityBaseEE.runtimeconfig.json
+C:\Users\Magnos\Desktop\EntityBaseEE\bin\Debug\net6.0\EntityBaseEE.dll
+C:\Users\Magnos\Desktop\EntityBaseEE\bin\Debug\net6.0\EntityBaseEE.pdb
+C:\Users\Magnos\Desktop\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.dll
+C:\Users\Magnos\Desktop\EntityBaseEE\obj\Debug\net6.0\refint\EntityBaseEE.dll
+C:\Users\Magnos\Desktop\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.pdb
+C:\Users\Magnos\Desktop\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.genruntimeconfig.cache
+C:\Users\Magnos\Desktop\EntityBaseEE\obj\Debug\net6.0\ref\EntityBaseEE.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EntityBaseEE\bin\Debug\net6.0\EntityBaseEE.deps.json
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EntityBaseEE\bin\Debug\net6.0\EntityBaseEE.runtimeconfig.json
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EntityBaseEE\bin\Debug\net6.0\EntityBaseEE.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EntityBaseEE\bin\Debug\net6.0\EntityBaseEE.pdb
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.csproj.AssemblyReference.cache
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.AssemblyInfoInputs.cache
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.AssemblyInfo.cs
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.csproj.CoreCompileInputs.cache
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EntityBaseEE\obj\Debug\net6.0\refint\EntityBaseEE.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.pdb
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.genruntimeconfig.cache
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EntityBaseEE\obj\Debug\net6.0\ref\EntityBaseEE.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EntityBaseEE\bin\Debug\net6.0\EntityBaseEE.deps.json
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EntityBaseEE\bin\Debug\net6.0\EntityBaseEE.runtimeconfig.json
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EntityBaseEE\bin\Debug\net6.0\EntityBaseEE.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EntityBaseEE\bin\Debug\net6.0\EntityBaseEE.pdb
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.csproj.AssemblyReference.cache
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.AssemblyInfoInputs.cache
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.AssemblyInfo.cs
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EntityBaseEE\obj\Debug\net6.0\refint\EntityBaseEE.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.pdb
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EntityBaseEE\obj\Debug\net6.0\EntityBaseEE.genruntimeconfig.cache
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EntityBaseEE\obj\Debug\net6.0\ref\EntityBaseEE.dll

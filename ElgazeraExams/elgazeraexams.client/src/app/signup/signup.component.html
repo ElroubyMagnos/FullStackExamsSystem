@@ -1,0 +1,20 @@
+<article class="big">
+    <form (submit)="SubmitAccount($event, namefour, tbc, grouptype, year, specality);" method="post" class="maincont">
+        <i class="fa-solid fa-user-plus"></i>
+        <input #namefour type="text" placeholder="الاسم رباعي"/>
+        <input #tbc (change)="TextBoxChanged(tbc);" type="text" placeholder="الرقم السري"/>
+        <p style="color: white;font-weight: bolder;">G - <input #grouptype style="width: 70px;" type="number" placeholder="جروب"/></p>
+        <select (change)="SpecialityChanged(specality);" #specality>
+            <option>التخصص</option>
+
+            <option *ngFor="let tol of SpecialityGroup" [value]="tol.id">{{tol.nameOf}}</option>
+        </select>
+        <select #year>
+            <option>العام الدراسي</option>
+
+            <option *ngFor="let goy of GradeGroup" [value]="goy.id">{{goy.id}}</option>
+        </select>
+
+        <button class="signbtn">التسجيل</button>
+    </form>
+</article>

@@ -1,0 +1,2 @@
+C:\Users\lenovo\Desktop\ElgazeraExams\elgazeraexams.client\obj\Debug\elgazeraexams.client.esproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Elgazeera Projects\ElgazeraExams\elgazeraexams.client\obj\Debug\elgazeraexams.client.esproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+D:\Elgazeera Projects\EntityBaseEE\bin\Release\net8.0\EntityBaseEE.deps.json
+D:\Elgazeera Projects\EntityBaseEE\bin\Release\net8.0\EntityBaseEE.runtimeconfig.json
+D:\Elgazeera Projects\EntityBaseEE\bin\Release\net8.0\EntityBaseEE.dll
+D:\Elgazeera Projects\EntityBaseEE\bin\Release\net8.0\EntityBaseEE.pdb
+D:\Elgazeera Projects\EntityBaseEE\obj\Release\net8.0\EntityBaseEE.csproj.AssemblyReference.cache
+D:\Elgazeera Projects\EntityBaseEE\obj\Release\net8.0\EntityBaseEE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elgazeera Projects\EntityBaseEE\obj\Release\net8.0\EntityBaseEE.AssemblyInfoInputs.cache
+D:\Elgazeera Projects\EntityBaseEE\obj\Release\net8.0\EntityBaseEE.AssemblyInfo.cs
+D:\Elgazeera Projects\EntityBaseEE\obj\Release\net8.0\EntityBaseEE.csproj.CoreCompileInputs.cache
+D:\Elgazeera Projects\EntityBaseEE\obj\Release\net8.0\EntityBaseEE.dll
+D:\Elgazeera Projects\EntityBaseEE\obj\Release\net8.0\refint\EntityBaseEE.dll
+D:\Elgazeera Projects\EntityBaseEE\obj\Release\net8.0\EntityBaseEE.pdb
+D:\Elgazeera Projects\EntityBaseEE\obj\Release\net8.0\EntityBaseEE.genruntimeconfig.cache
+D:\Elgazeera Projects\EntityBaseEE\obj\Release\net8.0\ref\EntityBaseEE.dll

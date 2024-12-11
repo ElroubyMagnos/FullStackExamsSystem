@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2024-05-26T10:34:12.5880243Z;True|2024-05-22T19:50:03.3173572+03:00;True|2024-04-26T13:50:01.3568125+03:00;True|2024-04-23T16:03:21.6984196+02:00;True|2024-04-23T15:45:49.1240903+02:00;True|2024-04-12T16:07:39.8500788+02:00;True|2024-04-12T15:10:38.8809130+02:00;True|2024-04-11T11:34:42.8946504+02:00;True|2024-04-11T11:11:18.3441549+02:00;False|2024-04-11T11:01:01.3053460+02:00;True|2024-04-10T16:50:40.1306274+02:00;True|2024-04-09T22:21:37.2903008+02:00;True|2024-04-09T22:13:40.3166949+02:00;True|2024-04-06T15:09:59.8308916+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

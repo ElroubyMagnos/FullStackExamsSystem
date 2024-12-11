@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\CoreSupport\CoreSupport\CoreSupport.csproj" />
+    <ProjectReference Include="..\EntityBaseEE\EntityBaseEE.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="AutoExamsGroup\ExamCover.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DB Web\BaseWebWndows\GradesWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="QuesBank\ChooseQuestionForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuesBank\EssayQuestionForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuesBank\RightWrongQuestionForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Results\ExamsClick.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

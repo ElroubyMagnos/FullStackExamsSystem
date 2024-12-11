@@ -1,0 +1,7 @@
+<section>
+  <div *ngFor="let ex of Exams">
+    <img [src]="'data:image/png;base64,' + ex.coverImage" alt="">
+    <button (click)="GotoExam(ex.id);">{{ex.title}}</button>
+    <p>{{ex.desc}}</p>
+  </div>
+</section>

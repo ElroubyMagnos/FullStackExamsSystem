@@ -1,0 +1,10 @@
+<header class="logocontainer">
+    <img src="assets\gzeralogo.png" alt="">
+
+    <div #btns class="btns">
+        <a routerLink="">الرئيسية</a>
+        <a *ngIf="!SignedIn" routerLink="signin">تسجيل الدخول</a>
+        <a *ngIf="!SignedIn" routerLink="signup">التسجيل في الموقع</a>
+        <a (click)="SignOut();" *ngIf="SignedIn" routerLink="signout">تسجيل الخروج</a>
+    </div>
+</header>

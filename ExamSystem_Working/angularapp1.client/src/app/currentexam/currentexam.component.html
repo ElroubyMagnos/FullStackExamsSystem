@@ -1,0 +1,39 @@
+<section class="lafeta">
+    <h1>{{exammain.title}}</h1>
+    <h2>{{exammain.desc}}</h2>
+    <p class="Time">{{TimeOf}}</p>
+</section>
+
+<div>
+  <section *ngFor="let choose of choosequestions" class="qanda">
+      <h2>{{choose.title}}</h2>
+
+      <section class="answers">
+          <button #first (click)="fourth.style.backgroundColor = third.style.backgroundColor = second.style.backgroundColor = first.style.backgroundColor = 'white';ColoritChoose(choose.id, first);" [value]="choose.firstAnswer">{{choose.firstAnswer}}</button>
+          <button #second (click)="fourth.style.backgroundColor = third.style.backgroundColor = second.style.backgroundColor = first.style.backgroundColor = 'white';ColoritChoose(choose.id, second);" [value]="choose.secondAnswer">{{choose.secondAnswer}}</button>
+          <button #third (click)="fourth.style.backgroundColor = third.style.backgroundColor = second.style.backgroundColor = first.style.backgroundColor = 'white';ColoritChoose(choose.id, third);" [value]="choose.thirdAnswer">{{choose.thirdAnswer}}</button>
+          <button #fourth (click)="fourth.style.backgroundColor = third.style.backgroundColor = second.style.backgroundColor = first.style.backgroundColor = 'white';ColoritChoose(choose.id, fourth);" [value]="choose.fourthAnswer">{{choose.fourthAnswer}}</button>
+      </section>
+  </section>
+</div>
+
+<div>
+  <section *ngFor="let rightwrong of rightwrongquestions" class="qanda">
+    <h2>{{rightwrong.title}}</h2>
+
+    <section class="answers">
+      <button #right (click)="ColoritRightWrong(right, wrong, rightwrong.id);" value="Right">صح</button>
+      <button #wrong (click)="ColoritRightWrong(wrong, right, rightwrong.id);" value="Wrong">خطأ</button>
+    </section>
+  </section>
+</div>
+
+<div>
+  <section *ngFor="let essay of essayquestions" class="qanda essay">
+    <textarea readonly class="QuestionEssay">{{essay.title}}</textarea>
+    <textarea (change)="EssayChanged(essay.id, answerofessay.value);" class="AnswerEssay" #answerofessay></textarea>
+  </section>
+</div>
+
+<button *ngIf="!buffering" (click)="SendAnswers();" class="sendbtn">ارسال</button>
+<img *ngIf="buffering" src="assets/buffering.gif" class="sendbtn" alt="">

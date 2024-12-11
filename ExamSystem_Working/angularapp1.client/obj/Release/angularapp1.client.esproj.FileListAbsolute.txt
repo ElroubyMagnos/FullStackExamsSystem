@@ -1,0 +1,2 @@
+D:\ExamSystem_Working\angularapp1.client\obj\Release\angularapp1.client.esproj.CoreCompileInputs.cache
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\angularapp1.client\obj\Release\angularapp1.client.esproj.CoreCompileInputs.cache

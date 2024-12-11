@@ -1,0 +1,26 @@
+<article class="big">
+    <form (submit)="SubmitAccount($event, namefour, tbc, grouptype, year, specality, EnteredCaptcha, password);" method="post" class="maincont">
+        <i class="fa-solid fa-user-plus"></i>
+        <input #namefour type="text" placeholder="الاسم كما في البطاقة"/>
+        <input #tbc (change)="TextBoxChanged(tbc);" type="text" placeholder="الرقم السري"/>
+        <input #password type="password" placeholder="رقم تسجيل الدخول">
+        <p style="color: white;font-weight: bolder;">G - <input #grouptype style="width: 70px;" type="number" placeholder="جروب"/></p>
+        <select (change)="SpecialityChanged(specality);" #specality>
+            <option>التخصص</option>
+
+            <option *ngFor="let tol of SpecialityGroup" [value]="tol.id">{{tol.nameOf}}</option>
+        </select>
+        <select #year>
+            <option>العام الدراسي</option>
+
+            <option *ngFor="let goy of GradeGroup" [value]="goy.idOfGrade">{{goy.idOfGrade}}</option>
+        </select>
+
+        <div class="captchapanel">
+            <img width="175" height="75" [src]="'data:image/png;base64,' + CaptchaVessel.i" alt="">
+            <input #EnteredCaptcha type="number">
+        </div>
+
+        <button class="signbtn">التسجيل</button>
+    </form>
+</article>

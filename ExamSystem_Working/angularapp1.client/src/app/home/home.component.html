@@ -1,0 +1,6 @@
+<section>
+    <div *ngFor="let lol of TOL" class="oneperit">
+        <button [routerLink]='"/second/" + lol.id'>{{lol.nameOf}}</button>
+        <p>{{lol.Description}}</p>
+    </div>
+</section>

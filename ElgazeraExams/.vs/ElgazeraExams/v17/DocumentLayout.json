@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\Elgazeera Projects\\ElgazeraExams\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA8CD7C-FE88-45CA-99E8-035C37C32B23}|elgazeraexams.client\\elgazeraexams.client.esproj|c:\\users\\lenovo\\desktop\\elgazeera projects\\elgazeraexams\\elgazeraexams.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{BBA8CD7C-FE88-45CA-99E8-035C37C32B23}|elgazeraexams.client\\elgazeraexams.client.esproj|solutionrelative:elgazeraexams.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Elgazeera Projects\\ElgazeraExams\\elgazeraexams.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "elgazeraexams.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Elgazeera Projects\\ElgazeraExams\\elgazeraexams.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "elgazeraexams.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-03T19:49:28.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

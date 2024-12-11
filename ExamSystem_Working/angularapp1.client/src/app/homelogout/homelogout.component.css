@@ -1,0 +1,32 @@
+.pic {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  align-items: center;
+  margin: 0 auto;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: black;
+}
+@media (max-width: 767px) {
+  .pic {
+    flex-direction: column;
+  }
+}
+.pic img {
+  width: 50%;
+  border-radius: 50%;
+}
+.pic div {
+  text-align: center;
+  padding-left: 25px;
+  padding-right: 25px;
+  color: white;
+}
+.pic div .signup {
+  padding: 10px;
+  margin: 20px;
+  background-color: #1992CE;
+  border: 0;
+  border-radius: 2px;
+}

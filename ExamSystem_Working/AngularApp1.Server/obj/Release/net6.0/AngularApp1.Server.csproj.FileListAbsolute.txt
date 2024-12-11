@@ -1,0 +1,193 @@
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\spa.proxy.json
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\appsettings.Development.json
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\appsettings.json
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\AngularApp1.Server.exe
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\AngularApp1.Server.deps.json
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\AngularApp1.Server.runtimeconfig.json
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\AngularApp1.Server.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\AngularApp1.Server.pdb
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Azure.Core.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Azure.Identity.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Humanizer.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Identity.Client.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Mono.TextTemplating.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\System.CodeDom.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\System.Drawing.Common.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\System.Memory.Data.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\System.Runtime.Caching.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\System.Security.Permissions.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\System.Text.Encodings.Web.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\System.Text.Json.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\EntityBaseEE.dll
+D:\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\EntityBaseEE.pdb
+D:\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\AngularApp1.Server.csproj.AssemblyReference.cache
+D:\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\spa.proxy.json
+D:\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\AngularApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\AngularApp1.Server.AssemblyInfoInputs.cache
+D:\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\AngularApp1.Server.AssemblyInfo.cs
+D:\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\AngularApp1.Server.csproj.CoreCompileInputs.cache
+D:\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\staticwebassets.build.json
+D:\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\staticwebassets.development.json
+D:\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\staticwebassets\msbuild.AngularApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\staticwebassets\msbuild.build.AngularApp1.Server.props
+D:\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularApp1.Server.props
+D:\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.AngularApp1.Server.props
+D:\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\staticwebassets.pack.json
+D:\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\scopedcss\bundle\AngularApp1.Server.styles.css
+D:\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\AngularA.7BAE9056.Up2Date
+D:\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\AngularApp1.Server.dll
+D:\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\refint\AngularApp1.Server.dll
+D:\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\AngularApp1.Server.pdb
+D:\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\AngularApp1.Server.genruntimeconfig.cache
+D:\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\ref\AngularApp1.Server.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\appsettings.Development.json
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\appsettings.json
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\spa.proxy.json
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\AngularApp1.Server.exe
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\AngularApp1.Server.deps.json
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\AngularApp1.Server.runtimeconfig.json
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\AngularApp1.Server.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\AngularApp1.Server.pdb
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Azure.Core.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Azure.Identity.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Humanizer.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Identity.Client.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Mono.TextTemplating.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\System.CodeDom.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\System.Drawing.Common.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\System.Memory.Data.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\System.Runtime.Caching.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\System.Security.Permissions.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\System.Text.Encodings.Web.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\System.Text.Json.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\EntityBaseEE.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\EntityBaseEE.pdb
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\AngularApp1.Server.csproj.AssemblyReference.cache
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\spa.proxy.json
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\AngularApp1.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\AngularApp1.Server.AssemblyInfoInputs.cache
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\AngularApp1.Server.AssemblyInfo.cs
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\AngularApp1.Server.csproj.CoreCompileInputs.cache
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\AngularApp1.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\staticwebassets.build.json
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\staticwebassets.development.json
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\staticwebassets\msbuild.AngularApp1.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\staticwebassets\msbuild.build.AngularApp1.Server.props
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularApp1.Server.props
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.AngularApp1.Server.props
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\staticwebassets.pack.json
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\scopedcss\bundle\AngularApp1.Server.styles.css
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\AngularA.7BAE9056.Up2Date
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\AngularApp1.Server.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\refint\AngularApp1.Server.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\AngularApp1.Server.pdb
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\AngularApp1.Server.genruntimeconfig.cache
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\obj\Release\net6.0\ref\AngularApp1.Server.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\captcha.png
+D:\Abdullah\lenovo laptop\Elgazeera Projects\ExamSystem_Working\AngularApp1.Server\bin\Release\net6.0\ElroubyCaptcha.dll

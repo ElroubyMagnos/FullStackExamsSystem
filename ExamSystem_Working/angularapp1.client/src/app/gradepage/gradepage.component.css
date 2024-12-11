@@ -1,0 +1,14 @@
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+section button {
+  width: 125px;
+  font-size: 25px;
+  margin: 10px;
+  padding: 15px;
+  border: 1px solid #FBC017;
+  background-color: #1992CE;
+}

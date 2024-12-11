@@ -1,0 +1,338 @@
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\EEControl.exe
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\EEControl.deps.json
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\EEControl.runtimeconfig.json
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\EEControl.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\EEControl.pdb
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\CoreSupport.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\EntityBaseEE.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\CoreSupport.pdb
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\EntityBaseEE.pdb
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.AutoExams.AutoExams.resources
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.DashBoard.resources
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.DB_Web.BaseWebWindow.resources
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.DB_Web.BaseWebWndows.GradesWindow.resources
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.DB_Web.BaseWebWndows.SubjectsWindow.resources
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.DB_Web.BaseWebWndows.TypeOfLearnWindow.resources
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.AddExamNow.resources
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.ChooseQuestionForm.resources
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.ExamCover.resources
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.ExamsMain.resources
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.RightWrongQuestionForm.resources
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Main.resources
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.SettingsWindow.resources
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Students.StudentInfo.resources
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.csproj.Up2Date
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\refint\EEControl.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.pdb
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\ref\EEControl.dll
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.AutoExams.ExamCover.resources
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Results.ExamResultsShow.resources
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.ExamsClick.resources
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Results.ResultsOfExams.resources
+C:\Users\lenovo\Desktop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Accounts.AccountsCreator.resources
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\EEControl.exe
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\EEControl.deps.json
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\EEControl.runtimeconfig.json
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\EEControl.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\EEControl.pdb
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\CoreSupport.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\EntityBaseEE.dll
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\CoreSupport.pdb
+D:\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\EntityBaseEE.pdb
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.csproj.AssemblyReference.cache
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Accounts.AccountsCreator.resources
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.AutoExams.AutoExams.resources
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.AutoExams.ExamCover.resources
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.DashBoard.resources
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.DB_Web.BaseWebWindow.resources
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.DB_Web.BaseWebWndows.GradesWindow.resources
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.DB_Web.BaseWebWndows.SubjectsWindow.resources
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.DB_Web.BaseWebWndows.TypeOfLearnWindow.resources
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.AddExamNow.resources
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.ChooseQuestionForm.resources
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.ExamCover.resources
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.ExamsMain.resources
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.RightWrongQuestionForm.resources
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Main.resources
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Properties.Resources.resources
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Results.ExamResultsShow.resources
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.ExamsClick.resources
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Results.ResultsOfExams.resources
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.SettingsWindow.resources
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Students.StudentInfo.resources
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.csproj.GenerateResource.cache
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.AssemblyInfoInputs.cache
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.AssemblyInfo.cs
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.csproj.CoreCompileInputs.cache
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.csproj.Up2Date
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.dll
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\refint\EEControl.dll
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.pdb
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.genruntimeconfig.cache
+D:\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\ref\EEControl.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\EEControl.exe
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\EEControl.deps.json
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\EEControl.runtimeconfig.json
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\EEControl.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\EEControl.pdb
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\CoreSupport.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\EntityBaseEE.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\CoreSupport.pdb
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\bin\Debug\net8.0-windows\EntityBaseEE.pdb
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.csproj.AssemblyReference.cache
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Accounts.AccountsCreator.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.AutoExams.AutoExams.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.AutoExams.ExamCover.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.CorrectExams.CorrectedEssay.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.CorrectExams.CorrectExams.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.CorrectExams.ExamCover.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.CorrectExams.SelectExam.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.DashBoard.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.DB_Web.BaseWebWindow.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.DB_Web.BaseWebWndows.GradesWindow.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.DB_Web.BaseWebWndows.SubjectsWindow.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.DB_Web.BaseWebWndows.TypeOfLearnWindow.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.AddExamNow.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.ChooseQuestionForm.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.EssayQuestionForm.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.ExamCover.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.ExamsMain.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.InsertQuestion.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.RightWrongQuestionForm.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.SummonQuesPanel.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Main.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Properties.Resources.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Bank.ChooseQuestionForm.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Bank.EssayQuestionForm.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.QuesBank.QuestionsBank.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Bank.RightWrongQuestionForm.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Results.ExamResultsShow.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.ExamsClick.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Results.ResultsOfExams.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.SettingsWindow.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.Students.StudentInfo.resources
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.csproj.GenerateResource.cache
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.AssemblyInfoInputs.cache
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.AssemblyInfo.cs
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.csproj.CoreCompileInputs.cache
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.csproj.Up2Date
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\refint\EEControl.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.pdb
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.genruntimeconfig.cache
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\ref\EEControl.dll
+D:\Abdullah\lenovo laptop\Elgazeera Projects\EEControl\obj\Debug\net8.0-windows\EEControl.SignUp.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\refint\EEControl.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.pdb
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.csproj.AssemblyReference.cache
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.Accounts.AccountsCreator.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.AutoExams.AutoExams.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.AutoExams.ExamCover.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.CorrectExams.CorrectedEssay.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.CorrectExams.CorrectExams.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.CorrectExams.ExamCover.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.CorrectExams.SelectExam.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.DashBoard.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.DB_Web.BaseWebWindow.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.DB_Web.BaseWebWndows.GradesWindow.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.DB_Web.BaseWebWndows.SubjectsWindow.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.DB_Web.BaseWebWndows.TypeOfLearnWindow.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.AddExamNow.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.ChooseQuestionForm.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.EssayQuestionForm.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.ExamCover.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.ExamsMain.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.InsertQuestion.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.RightWrongQuestionForm.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.SummonQuesPanel.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.Main.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.Properties.Resources.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.Bank.ChooseQuestionForm.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.Bank.EssayQuestionForm.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.QuesBank.QuestionsBank.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.Bank.RightWrongQuestionForm.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.Results.ExamResultsShow.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.Exams.ExamsClick.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.Results.ResultsOfExams.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.SettingsWindow.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.SignUp.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.Students.StudentInfo.resources
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.csproj.GenerateResource.cache
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.AssemblyInfoInputs.cache
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.AssemblyInfo.cs
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\EEControl.exe
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\EEControl.deps.json
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\EEControl.runtimeconfig.json
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\EEControl.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\EEControl.pdb
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\CoreSupport.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\EntityBaseEE.dll
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\CoreSupport.pdb
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\bin\Debug\net8.0-windows\EntityBaseEE.pdb
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.csproj.Up2Date
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\EEControl.genruntimeconfig.cache
+C:\Users\Abdullah Elrouby\Desktop\Elgazeera\EEControl\obj\Debug\net8.0-windows\ref\EEControl.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdullah Elrouby\\Desktop\\Elgazeera\\ExamSystem_Working\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68D0334C-6D4D-467B-8F15-81E2B88261D2}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\abdullah elrouby\\desktop\\elgazeera\\examsystem_working\\angularapp1.client\\src\\app\\manager.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{68D0334C-6D4D-467B-8F15-81E2B88261D2}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\manager.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "manager.service.ts",
+              "DocumentMoniker": "C:\\Users\\Abdullah Elrouby\\Desktop\\Elgazeera\\ExamSystem_Working\\angularapp1.client\\src\\app\\manager.service.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\manager.service.ts",
+              "ToolTip": "C:\\Users\\Abdullah Elrouby\\Desktop\\Elgazeera\\ExamSystem_Working\\angularapp1.client\\src\\app\\manager.service.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\manager.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-23T13:59:43.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

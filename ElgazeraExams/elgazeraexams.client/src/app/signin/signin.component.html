@@ -1,0 +1,8 @@
+<article class="big">
+    <form (submit)="SignInDo($event, fullname, tbc);" method="post" class="maincont">
+        <i class="fa-solid fa-right-to-bracket"></i>
+        <input #fullname type="text" placeholder="الاسم رباعي"/>
+        <input #tbc (change)="TextBoxChanged(tbc);" type="text" placeholder="الرقم السري"/>
+        <button class="signbtn">التسجيل</button>
+    </form>
+</article>

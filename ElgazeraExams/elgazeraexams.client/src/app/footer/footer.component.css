@@ -1,0 +1,11 @@
+footer {
+  animation: AppearAfter 1s linear;
+  background-color: black;
+  padding: 20px;
+}
+footer p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: blue;
+}

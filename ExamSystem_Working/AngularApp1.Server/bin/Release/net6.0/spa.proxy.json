@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "D:\\Abdullah\\lenovo laptop\\Elgazeera Projects\\ExamSystem_Working\\AngularApp1.Server\\..\\angularapp1.client",
+"MaxTimeoutInSeconds": "120"
+}
+}
